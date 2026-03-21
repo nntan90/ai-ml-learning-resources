@@ -3,6 +3,39 @@
 > Tổng hợp **16 GitHub repositories** chất lượng cao về AI/ML — từ nền tảng toán học đến RAG, LLM, Agents và MLOps.  
 > Mỗi repo được phân loại theo chủ đề, kèm mô tả chi tiết và link trực tiếp.
 
+
+## 📂 Nội dung đã crawl (cho NotebookLM)
+
+> **521 files** (.md + notebooks chuyển đổi sang .md) từ 16 repos — sẵn sàng để feed vào NotebookLM.  
+> Mỗi repo = 1 thư mục trong [`content/`](./content/), chứa toàn bộ bài học và notebooks.
+
+| Thư mục | Repo gốc | Files | Loại nội dung |
+|---------|----------|-------|---------------|
+| [content/mml-book/](./content/mml-book/) | mml-book/mml-book.github.io | 10 | Notes + notebooks |
+| [content/thealgorithms-python/](./content/thealgorithms-python/) | TheAlgorithms/Python | 25 | Algorithm docs |
+| [content/awesome-nlp/](./content/awesome-nlp/) | keon/awesome-nlp | 5 | Curated list |
+| [content/awesome-rl/](./content/awesome-rl/) | aikorea/awesome-rl | 2 | Curated list |
+| [content/awesome-datascience/](./content/awesome-datascience/) | academic/awesome-datascience | 2 | Curated list |
+| [content/100-days-of-ml/](./content/100-days-of-ml/) | Avik-Jain/100-Days-Of-ML-Code | 13 | Daily lessons |
+| [content/rl-from-scratch/](./content/rl-from-scratch/) | norhum/rl-from-scratch | 8 | RL notebooks |
+| [content/nn-zero-to-hero/](./content/nn-zero-to-hero/) | karpathy/nn-zero-to-hero | 8 | Lecture notebooks |
+| [content/annotated-deep-learning/](./content/annotated-deep-learning/) | labmlai/annotated_deep_learning | 63 | Papers + notebooks |
+| [content/made-with-ml/](./content/made-with-ml/) | GokuMohandas/Made-With-ML | 12 | MLOps notebooks |
+| [content/hands-on-llm/](./content/hands-on-llm/) | HandsOnLLM/Hands-On-LLMs | 36 | Book chapters |
+| [content/prompt-engineering-guide/](./content/prompt-engineering-guide/) | DAIR-AI/Prompt-Engineering-Guide | 24 | Techniques + notebooks |
+| [content/rag-techniques/](./content/rag-techniques/) | NirDiamant/RAG_Techniques | 40 | RAG notebooks |
+| [content/genai-agents/](./content/genai-agents/) | NirDiamant/GenAI_Agents | 47 | Agent notebooks |
+| [content/ml-for-beginners/](./content/ml-for-beginners/) | microsoft/ML-For-Beginners | 150 | Lessons + notebooks |
+| [content/ai-agents-for-beginners/](./content/ai-agents-for-beginners/) | microsoft/ai-agents-for-beginners | 88 | Lessons + notebooks |
+
+### Cách dùng với NotebookLM
+1. Vào [NotebookLM](https://notebooklm.google.com)
+2. Tạo notebook mới → **Add source** → **GitHub**
+3. Paste URL: `https://github.com/nntan90/ai-ml-learning-resources`
+4. Hoặc upload từng file .md từ thư mục `content/<topic>/`
+
+---
+
 ---
 
 ## Danh mục chủ đề
